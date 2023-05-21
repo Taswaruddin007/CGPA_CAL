@@ -1,2 +1,2 @@
 # CGPA_CAL
-This a project where one can get his / her CGPA easily.
+This a project can help one to get his / her CGPA easily.
